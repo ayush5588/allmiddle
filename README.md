@@ -1,5 +1,5 @@
 # allmiddle
-[![NPM VERSION](http://img.shields.io/npm/v/allmiddle.svg?style=flat&logo=npm)](https://www.npmjs.org/package/allmiddle)[![GitHub license](https://img.shields.io/github/license/ayush5588/allmiddle.svg?style=flat&logo=github)](https://github.com/ayush5588/allmiddle/blob/main/LICENSE) [![NPM MODULE](http://img.shields.io/badge/allmiddle-orange.svg?style=flat&logo=node.js)](https://github.com/ayush5588/allmiddle)
+[![NPM VERSION](http://img.shields.io/npm/v/allmiddle.svg?style=flat&logo=npm)](https://www.npmjs.org/package/allmiddle) [![GitHub license](https://img.shields.io/github/license/ayush5588/allmiddle.svg?style=flat&logo=github)](https://github.com/ayush5588/allmiddle/blob/main/LICENSE) [![NPM MODULE](http://img.shields.io/badge/allmiddle-orange.svg?style=flat&logo=node.js)](https://github.com/ayush5588/allmiddle)
 #### A NPM package which comprises of all the major middlewares needed to be included in the projects.
 **Click [here](https://www.npmjs.com/package/allmiddle)** to view this package on **NPM** registry.<br /><br />
 

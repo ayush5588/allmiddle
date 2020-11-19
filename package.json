@@ -1,6 +1,6 @@
 {
   "name": "allmiddle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A NPM package which comprises of all the major middlewares needed to be included in the projects.",
   "main": "build/index.js",
   "scripts": {

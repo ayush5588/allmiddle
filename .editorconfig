@@ -1,0 +1,11 @@
+# Tells editors and IDEs how to format our files
+root = true
+
+# [*] denotes all files
+# [*.xml] denotes all xml files
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true

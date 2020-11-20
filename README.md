@@ -15,6 +15,12 @@ $ npm install allmiddle
 const allmiddle = require('allmiddle').includeAllMiddle;
 allmiddle(app);
 ```
+##### OR
+
+```
+const allmiddle = require('allmiddle');
+allmiddle.includeAllMiddle(app);
+```
 (where app = express();)
 <br /><br />
 
